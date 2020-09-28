@@ -34,12 +34,17 @@
     margin-bottom: .3em;
 }
 
+.markdown-section table {
+    width: auto;
+}
+
 .markdown-section table th {
     background: #eee;
 }
 
 .page-wrapper .page-inner {
     max-width: 960px;
+    padding-left: 20px;
 }
 
 a.run-code-button:hover, a.run-code-button:focus {
